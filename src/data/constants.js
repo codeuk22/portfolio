@@ -269,7 +269,7 @@ export const education = [
     id: 2,
     img: "https://upsharidwar.com/images/logo.png",
     school: "Udaishwar Public School",
-    date: "Apr 2013 - Apr 2019",
+    date: "Apr 2017 - Apr 2018",
     grade: "9 CGPA",
     desc: "I completed my class 10 education at Udaishwar Public School, where I studied Science with Computer Application.",
     degree: "CBSE(X), Science",
