@@ -17,7 +17,7 @@ export const Bio = {
     "Full Stack Developer @Relinns Technologies",
   ],
   description:
-    "I am a full-stack developer with over 2 years of experience at Relinns Technologies, where I played a key role in developing cutting-edge websites and software solutions. In my role, I was responsible for both the admin panel and advisor panel of the website, and I also managed AWS server deployments. Additionally, I gained experience as a React Intern at IMMWIT Pvt Ltd. My skillset includes proficiency in React, React Native, Node.js, and MongoDB",
+    "I am a full-stack developer with over 2 years of experience at Relinns Technologies and Founder at Money Tech, where I played a key role in developing cutting-edge websites and software solutions. In my role, I was responsible for both the admin panel and advisor panel of the website, and I also managed AWS server deployments. Additionally, I gained experience as a React Intern at IMMWIT Pvt Ltd. My skillset includes proficiency in React, React Native, Node.js, and MongoDB",
   github: "https://github.com/codeuk22",
   resume:
     "https://drive.google.com/file/d/1WEMckTvJXr9gRjQjionw8bDDNlVSDkqz/view?usp=sharing",
